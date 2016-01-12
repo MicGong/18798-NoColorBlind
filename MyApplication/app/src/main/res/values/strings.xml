@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NoColorBlind</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test1">Test1Activity</string>
+    <string name="title_activity_ishi_test">IshiTestActivity</string>
+    <string name="title_activity_anom_test">AnomTestActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="test_intro">Tell us what you see in the picture...</string>
+    <string name="test_intro_anom">Please choose from below to find out one
+        with the nearest color with the above image...</string>
+
+</resources>
